@@ -20,3 +20,8 @@ Learning technologies :
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
+
+<b>My field of expertise :</b>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width:100%"/>
