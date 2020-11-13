@@ -5,19 +5,17 @@ I am Michael, a passionate Junior Web Developer! Self taught programmer since I 
 
 - 🔭 I’m currently working on ... http://www.leplana.ca/ , http://www.ladeko.ca/
 - 🤔 I’m looking for ... Work or internship. 
-<b>- 🌱 I’m currently learning ... </b> :<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
 - :question: Where do I study: ... Cegep de Trois Riviere ( AEC Front End )
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... I am bilingual
--->
-
-
-
+<b>- 🌱 I’m currently learning ... </b> : 
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
 
 <b>My field of expertise :</b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%"/>
