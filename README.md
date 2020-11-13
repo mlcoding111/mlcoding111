@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Michael, a passionate Junior Web Developer! Self taught programmer since I am a teenager, I am always looking for more challenges and forward to learn new technologies to sharpen my skills! My goal is to become a Full Stack Developer
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
+
 
 - 🔭 I’m currently working on ... http://www.leplana.ca/ , http://www.ladeko.ca/
 - 🌱 I’m currently learning ... Angular, Vue.js, Typescript, MERN stack
@@ -11,4 +11,9 @@ I am Michael, a passionate Junior Web Developer! Self taught programmer since I 
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... I am bilingual
 -->
+
+
+Learning technologies : 
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg" style="max-width:100%"/>
 
