@@ -10,6 +10,8 @@ I am Michael, a passionate Junior Web Developer! Self taught programmer since I 
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... I am bilingual
 <b>- 🌱 I’m currently learning ... </b> : 
+
+
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
