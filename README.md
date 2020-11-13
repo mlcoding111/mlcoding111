@@ -3,7 +3,7 @@
 I am Michael, a passionate Junior Web Developer! Self taught programmer since I am a teenager, I am always looking for more challenges and forward to learn new technologies to sharpen my skills! My goal is to become a Full Stack Developer. I started programming in <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%"/> , which gave me a good understanding of programming in general and strong foundation
 
 - 🔭 I’m currently working on ... http://www.leplana.ca/ , http://www.ladeko.ca/
-- 🤔 I’m looking for ... Work or internship. 
+- 🤔 I’m looking for ... Work or internship using React 
 - :question: Where do I study: ... Cegep de Trois Riviere ( AEC Front End )
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... 
