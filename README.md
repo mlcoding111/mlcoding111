@@ -4,7 +4,7 @@
 I am Michael, a passionate Junior Web Developer! Self-taught programmer since I am a teenager, I am always looking for more challenges and forward to learn new technologies to sharpen my skills! My goal is to become a Full Stack Developer. I started programming with c/c++, which gave me a good understanding of programming in general and a strong foundation.
 
 - 🔭 I’m currently working on: ...
-- 🤔 I’m looking for:  Work or internship using React 
+- 🤔 I’m looking for:  Work or internship with React 
 - :question: Where do I study: Cegep de Trois Riviere ( AEC Front End )
 - 💬 Ask me about ... Anything
 - 📫 How to reach me:  http://mlweb.info/
@@ -18,6 +18,11 @@ I am Michael, a passionate Junior Web Developer! Self-taught programmer since I 
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" style="max-width:100%"/>
+
+I focus mostly on front-end development as well as NodeJS to be a full stack developer! On the side, I started to really enjoy learning python and deep learning AI in my free time :)
+
+
 
 <b>My field of expertise :</b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%"/>
