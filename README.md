@@ -10,6 +10,11 @@ I am Michael, a passionate Junior Web Developer! Self-taught programmer since I 
 - 📫 How to reach me:  http://mlweb.info/
 - ⚡ Fun fact: I am bilingual
 
+All of my online projects :
+http://awake-official.ca/
+http://ladeko.ca
+http://leplana.ca
+http://mlweb.info
 
 <b>What I am studying :</b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
