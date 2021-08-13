@@ -5,7 +5,7 @@ I am Michael, a passionate Junior Web Developer! Self-taught programmer since I 
 
 - 🔭 I’m currently working on: Freelancing
 - 🤔 I’m looking for:  Work
-- :question: Where do I study: Cegep de Trois Riviere ( AEC Front End )
+- :question: Where did I study: Cegep de Trois Riviere ( AEC Front End )
 - 💬 Ask me about ... Anything
 - 📫 How to reach me:  http://mlweb.info/
 - ⚡ Fun fact: I am bilingual
