@@ -14,7 +14,7 @@ All of my online projects :
 - http://awake-official.ca/
 - http://ladeko.ca
 - http://leplana.ca - Offline
-- http://mlweb.info - Offline
+- http://mlweb.org
 
 <b>What I studied ( crash course during my studies at Cégep de Trois-Rivières ): </b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
