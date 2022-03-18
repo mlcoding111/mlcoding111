@@ -13,8 +13,8 @@ I am Michael, a passionate Junior Web Developer! Self-taught programmer since I 
 All of my online projects :
 - http://awake-official.ca/
 - http://ladeko.ca
-- http://leplana.ca - Offline
 - http://mlweb.org
+- https://decontamination-pl.ca/
 
 <b>What I studied ( crash course during my studies at Cégep de Trois-Rivières ): </b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
