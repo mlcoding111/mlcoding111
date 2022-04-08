@@ -11,7 +11,6 @@ I am Michael, a passionate Junior Web Developer! Self-taught programmer since I 
 - ⚡ Fun fact: I am bilingual
 
 All of my online projects :
-- http://awake-official.ca/
 - http://ladeko.ca
 - http://mlweb.org
 - https://decontamination-pl.ca/
