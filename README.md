@@ -19,7 +19,7 @@ All of my online projects :
 - http://ladeko.ca
 - http://mlweb.org
 - https://decontamination-pl.ca/
-- http://awake-official.ca/
+<!-- - http://awake-official.ca/ -->
 
 <b>What I studied ( crash course during my studies at Cégep de Trois-Rivières ): </b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
