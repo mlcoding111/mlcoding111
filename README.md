@@ -20,14 +20,17 @@ All of my online projects :
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" style="max-width:100%"/>
+<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" style="max-width:100%"/>
+
 
 <b>What I am studying : </b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
-<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" style="max-width:100%"/>
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
 
-I focus mostly on front-end development as well as NodeJS to be a full stack developer! On the side, I started to really enjoy learning python and deep learning AI in my free time :)
+I focus mostly on front-end development as well as NodeJS/ExpressJS to host my servers.
 
 <b>My field of expertise : </b>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%"/>
