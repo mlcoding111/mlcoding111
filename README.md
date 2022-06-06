@@ -42,7 +42,7 @@ I focus mostly on front-end development as well as NodeJS/ExpressJS to host my s
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
 
-<b>Other languages I've already used/studied :<b/>  <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="max-width:100%"/>
+<b>Other languages I've studied :<b/>  <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%"/>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%"/>
