@@ -4,7 +4,7 @@
 Personal website/portfolio : http://mlweb.org
 
 
-I am Michael, a passionate Junior Web Developer! Self-taught programmer since I am a teenager, I am always looking for more challenges and forward to learn new technologies to sharpen my skills! My goal is to become a Full Stack Developer. I started programming with c/c++, which gave me a good understanding of programming in general and a strong foundation.
+I am Michael, a passionate Fullstack Web Developer! Self-taught programmer since I am a teenager, I am always looking for more challenges and forward to learn new technologies to sharpen my skills! My goal is to become a Full Stack Developer. I started programming with c/c++, which gave me a good understanding of programming in general and a strong foundation.
 
 - 🔭 I’m currently working on: Freelancing projects
 - 🤔 I’m looking for: Remote work
