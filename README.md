@@ -1,46 +1,41 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
+## 👋 I'm Michael Lacroix  
+**Full-Stack Web Developer | Security | AI Automation**
 
-Personal website/portfolio : http://mlweb.org
+🌐 [mlweb.org](http://mlweb.org)
 
+---
 
-I am Michael, a passionate Fullstack Web Developer! Self-taught programmer since I am a teenager, I am always looking for more challenges and forward to learn new technologies to sharpen my skills! My goal is to become a Full Stack Developer. I started programming with c/c++, which gave me a good understanding of programming in general and a strong foundation.
+I’m a **full-stack developer** passionate about crafting **custom web applications**, **secure backend systems**, and **AI-driven automations** that make businesses more efficient.
 
-- 🔭 I’m currently working on: Freelancing projects
-- 🤔 I’m looking for: Remote work
-- :question: Where did I study: Cegep de Trois Riviere ( AEC Front End )
-- 💬 Ask me about ... Anything
-- 📫 How to reach me:  http://mlweb.org/
-- ⚡ Fun fact: I am bilingual
+Self-taught since a young age, I started programming with **C and C++**, which gave me a strong base in problem-solving and clean architecture.  
+Today, I focus on **modern, production-ready solutions** using powerful tools and frameworks.
 
+💼 **Currently focused on:**  
+- Freelance projects (custom apps, backend systems, automation)  
+- Building scalable, secure web architectures  
+- Helping startups go from idea → production
 
+📫 **Reach me at:** [mlweb.org](http://mlweb.org)  
+⚡ **Fun fact:** I started my career in gold mining before turning full-time to code!
 
-<b>What I studied ( crash course during my studies at Cégep de Trois-Rivières ): </b>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
-<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" style="max-width:100%"/>
-<img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" style="max-width:100%"/>
+---
 
+### 🧰 Main Tech Stack
 
-<b>What I am studying : </b>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%"/>
+<p align="left">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+</p>
 
-I focus mostly on front-end development as well as NodeJS/ExpressJS to host my servers.
+---
 
-<b>My field of expertise : </b>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%"/>
-
-<b>Other languages I've studied :<b/>  <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%"/>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%"/>
-
+> 💬 *“Building clean, secure, and scalable software — one project at a time.”*
