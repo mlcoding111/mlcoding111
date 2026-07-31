@@ -17,7 +17,6 @@ Today, I focus on **modern, production-ready solutions** using powerful tools an
 - Building scalable, secure web architectures  
 - Helping startups go from idea → production
 
-📫 **Reach me at:** [mlweb.org](http://mlweb.org)  
 ⚡ **Fun fact:** I started my career in gold mining before turning full-time to code!
 
 ---
